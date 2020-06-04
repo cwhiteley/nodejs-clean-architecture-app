@@ -6,6 +6,7 @@
 git clone git@github.com:jbuget/nodejs-clean-architecture-app.git
 cd nodejs-clean-architecture-app
 npm install
+docker-compose up -d
 npm test
 npm start
 ```
